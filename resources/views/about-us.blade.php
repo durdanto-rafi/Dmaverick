@@ -3,5 +3,5 @@
 @section('title', 'Dmaverick')
 
 @section('body')
-    @include('partials.home')
+    @include('partials.about')
 @endsection
