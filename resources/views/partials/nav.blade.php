@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-xs-4">
-                    <div class="top-number"><p><i class="fa fa-phone-square"></i> +0123 456 70 90</p></div>
+                    <div class="top-number"><p><i class="fa fa-phone-square"></i> +88 01710 255581</p></div>
                 </div>
                 <div class="col-sm-6 col-xs-8">
                     <div class="social">
@@ -40,10 +40,10 @@
 
             <div class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="/index">Home</a></li>
-                    <li><a href="/about-us">About Us</a></li>
-                    <li><a href="/services">Services</a></li>
-                    <li><a href="/portfolio">Portfolio</a></li>
+                    <li class="active"><a href="{{route('index')}}">Home</a></li>
+                    <li><a href="{{route('about-us')}}">About Us</a></li>
+                    <li><a href="{{route('services')}}">Services</a></li>
+                    <li><a href="{{route('portfolio')}}">Portfolio</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
@@ -54,7 +54,7 @@
                         </ul>
                     </li>
                     <li><a href="blog.html">Blog</a></li>
-                    <li><a href="/contact-us">Contact</a></li>
+                    <li><a href="{{route('contact-us')}}">Contact</a></li>
                 </ul>
             </div>
         </div><!--/.container-->

@@ -156,12 +156,12 @@
         <div class="row">
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/01.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme</a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/01.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -170,12 +170,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/02.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme</a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/02.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -184,12 +184,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/03.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme </a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/03.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -198,12 +198,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/04.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme </a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/04.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -212,12 +212,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/05.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme</a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/05.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -226,12 +226,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/06.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme </a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/06.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -240,12 +240,12 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/07.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme </a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/07.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
@@ -254,12 +254,68 @@
 
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <div class="recent-work-wrap">
-                    <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
+                    <img class="img-responsive" src="images/portfolio/recent/08.jpg" alt="">
                     <div class="overlay">
                         <div class="recent-work-inner">
                             <h3><a href="#">Business theme </a></h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                            <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i
+                            <a class="preview" href="images/portfolio/full/08.jpg" rel="prettyPhoto"><i
+                                        class="fa fa-eye"></i> View</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="recent-work-wrap">
+                    <img class="img-responsive" src="images/portfolio/recent/09.jpg" alt="">
+                    <div class="overlay">
+                        <div class="recent-work-inner">
+                            <h3><a href="#">Business theme </a></h3>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            <a class="preview" href="images/portfolio/full/09.jpg" rel="prettyPhoto"><i
+                                        class="fa fa-eye"></i> View</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="recent-work-wrap">
+                    <img class="img-responsive" src="images/portfolio/recent/10.jpg" alt="">
+                    <div class="overlay">
+                        <div class="recent-work-inner">
+                            <h3><a href="#">Business theme </a></h3>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            <a class="preview" href="images/portfolio/full/10.jpg" rel="prettyPhoto"><i
+                                        class="fa fa-eye"></i> View</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="recent-work-wrap">
+                    <img class="img-responsive" src="images/portfolio/recent/11.jpg" alt="">
+                    <div class="overlay">
+                        <div class="recent-work-inner">
+                            <h3><a href="#">Business theme </a></h3>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            <a class="preview" href="images/portfolio/full/11.jpg" rel="prettyPhoto"><i
+                                        class="fa fa-eye"></i> View</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="recent-work-wrap">
+                    <img class="img-responsive" src="images/portfolio/recent/12.jpg" alt="">
+                    <div class="overlay">
+                        <div class="recent-work-inner">
+                            <h3><a href="#">Business theme </a></h3>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            <a class="preview" href="images/portfolio/full/12.jpg" rel="prettyPhoto"><i
                                         class="fa fa-eye"></i> View</a>
                         </div>
                     </div>
