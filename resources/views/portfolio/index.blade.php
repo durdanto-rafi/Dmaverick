@@ -1,7 +1,7 @@
 
 @extends('layouts.master')
 
-@section('title', 'Dmaverick')
+@section('title', 'dMaverick - Portfolio')
 
 @section('body')
     <section id="portfolio">

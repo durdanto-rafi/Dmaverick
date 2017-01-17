@@ -35,26 +35,34 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                <a class="navbar-brand" href="{{route('index')}}"><img src="images/logo.png" alt="logo"></a>
             </div>
 
             <div class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="{{route('index')}}">Home</a></li>
-                    <li><a href="{{route('about-us')}}">About Us</a></li>
-                    <li><a href="{{route('services')}}">Services</a></li>
-                    <li><a href="{{route('portfolio')}}">Portfolio</a></li>
+                    <li class="{{ Request::is('/') ? 'active' : '' }}">
+                        <a href="{{route('index')}}">Home</a>
+                    </li>
+                    <li class="{{ Request::is('about-us') ? 'active' : '' }}">
+                        <a href="{{route('about-us')}}">About Us</a>
+                    </li>
+                    <li class="{{ Request::is('services') ? 'active' : '' }}">
+                        <a href="{{route('services')}}">Services</a>
+                    </li>
+                    <li class="{{ Request::is('portfolio') ? 'active' : '' }}">
+                        <a href="{{route('portfolio')}}">Portfolio</a>
+                    </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sister Concerns <i class="fa fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="blog-item.html">Blog Single</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
-                            <li><a href="404.html">404</a></li>
-                            <li><a href="shortcodes.html">Shortcodes</a></li>
+                            <li><a href="blog-item.html">Instance International Limited</a></li>
+                            <li><a href="http://www.facebook.com/Antarik-Travel-International-210590119032726/?ref=bookmarks">Antarik Travel International</a></li>
+                            <li><a href="http://www.facebook.com/dMaverickBlood">dMaverick Blood Foundation</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="{{route('contact-us')}}">Contact</a></li>
+                    <li class="{{ Request::is('contact-us') ? 'active' : '' }}">
+                        <a href="{{route('contact-us')}}">Contact</a>
+                    </li>
                 </ul>
             </div>
         </div><!--/.container-->

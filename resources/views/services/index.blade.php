@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dmaverick')
+@section('title', 'dMaverick - Services')
 
 @section('body')
     <section id="feature" class="transparent-bg">

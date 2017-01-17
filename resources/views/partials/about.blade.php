@@ -1,8 +1,14 @@
 <section id="about-us">
     <div class="container">
         <div class="center wow fadeInDown">
-            <h2>About Corlate</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <h2>About dMaverick Intelligence</h2>
+            <p class="lead">Imagine…One touch on your tablet and the movie starts, your shades close and the surround sound kicks in at the perfect volume. When the sun goes down, your porch light turns on. The whole house locks at 11 p.m. automatically.
+You rush out with the kids to drop them off at school. By the time you get to the office you wonder, “Did I close the garage door?” Simply check from your smartphone and relax.
+Imagine living in a home that obeys your every command...where virtually every device and system can be controlled remotely and fully automated. You can use your tablet to control your home theater, dim the lights, lock the doors, turn up the heat and arm the alarm. Or your smartphone to do the same from not just anywhere in your house—but from anywhere in the world. 
+Welcome to dMaverick Intelligence, a smart automation solution for homes and businesses that makes it easy for you to intelligently control every aspect of your home—from TVs to thermostats, door locks to drapes—no matter where you are, using one simple-to-use interface. We make your life more comfortable, more efficient and more secure.
+Best of all, dMaverick Intelligence gives you the power of technology to personalize your home or business with the automation system of your dreams—all within your budget.
+
+            </p>
         </div>
         
         <!-- about us slider -->
@@ -17,14 +23,14 @@
 
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="images/slider_one.jpg" class="img-responsive" alt=""> 
+                        <img src="images/about-us.jpg" class="img-responsive" alt=""> 
                     </div>
-                    <div class="item">
+                    {{-- <div class="item">
                         <img src="images/slider_one.jpg" class="img-responsive" alt=""> 
                     </div> 
                     <div class="item">
                         <img src="images/slider_one.jpg" class="img-responsive" alt=""> 
-                    </div> 
+                    </div>  --}}
                 </div>
                 
                 <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
@@ -37,22 +43,39 @@
             </div> <!--/#carousel-slider-->
         </div><!--/#about-slider-->
         
+         {{-- <div class="center wow fadeInDown">
+            <h2>Vision Statement</h2>
+            <p class="lead">To create new value with passion, our vision is to excite and delight our clients by conforming intelligence for a better lifestyle.
+            </p>
+        </div>
+
+        <div class="center wow fadeInDown">
+            <h2>Mission Statement</h2>
+            <p class="lead">Clients are the highest priority. Our mission is to achieve operational excellence through superior customer service, innovation, quality and commitment.
+            </p>
+        </div>
+
+        <div class="center wow fadeInDown">
+            <h2>Core Values</h2>
+            <p class="lead">We are a Culture, driven by the performance with metrics to ensure continuous melioration. We value integrity, creativity, customer focus and respect highly motivated and the maverick people with ample team spirit.
+            </p>
+        </div> --}}
         
         <!-- Our Skill -->
         <div class="skill-wrap clearfix">
         
             <div class="center wow fadeInDown">
                 <h2>Our Skill</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="lead">dMaverick Intelligence offers various building and hotel automation services to serve <br>
+                client’s requirements and have the in-house expertise to deliver the project with given timeline.</p>
             </div>
             
             <div class="row">
-    
                 <div class="col-sm-3">
                     <div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
                         <div class="joomla-skill">                                   
                             <p><em>85%</em></p>
-                            <p>Joomla</p>
+                            <p>Building Automation System</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +84,7 @@
                     <div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="html-skill">                                  
                             <p><em>95%</em></p>
-                            <p>HTML</p>
+                            <p>Interior Design</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +93,7 @@
                     <div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
                         <div class="css-skill">                                    
                             <p><em>80%</em></p>
-                            <p>CSS</p>
+                            <p>Hotel Automaiton</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +102,7 @@
                     <div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
                         <div class="wp-skill">
                             <p><em>90%</em></p>
-                            <p>Wordpress</p>                                     
+                            <p>Commercial Automation</p>                                     
                         </div>
                     </div>
                 </div>
@@ -92,7 +115,7 @@
         <!-- our-team -->
         <div class="team">
             <div class="center wow fadeInDown">
-                <h2>Team of Corlate</h2>
+                <h2>Team of dMaverick Intelligence</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 

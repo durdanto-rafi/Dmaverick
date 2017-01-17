@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dmaverick')
+@section('title', 'dMaverick - Contact')
 
 @section('body')
     <section id="contact-info">
@@ -22,23 +22,29 @@
                             <li class="col-sm-6">
                                 <address>
                                     <h5>Head Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <p>House-07, Road-18, Sector-12,<br>
+                                        Uttara Model Town,<br>
+                                        Dhaka-1230, Bangladesh<br>
+                                    </p>
+                                    <p>Phone: +88-01710-255581<br>
+                                        Email Address: info@dmaverick.com
+                                    </p>
                                 </address>
 
                                 <address>
                                     <h5>Zonal Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>                                
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <p>Paramount Heights, 65/2/1 <br>
+                                        Box Culvert Road, Purana Paltan <br>
+                                        Dhaka-1000, Bangladesh
+                                    </p>                                
+                                    <p>Phone: +88-01990-979800<br>
+                                        Email Address: info@dmaverick.com
+                                    </p>
                                 </address>
                             </li>
 
 
-                            <li class="col-sm-6">
+                            {{-- <li class="col-sm-6">
                                 <address>
                                     <h5>Zone#2 Office</h5>
                                     <p>1537 Flint Street <br>
@@ -54,7 +60,7 @@
                                     <p>Phone:670-898-2847 <br>
                                     Email Address:info@domain.com</p>
                                 </address>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div>
                 </div>

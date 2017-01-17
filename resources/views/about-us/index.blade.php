@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dmaverick')
+@section('title', 'dMaverick - About')
 
 @section('body')
     @include('partials.about')

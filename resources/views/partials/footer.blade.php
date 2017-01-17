@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-6">
                 &copy; 2016 <a target="_blank" href="http://intelle-hub.com/"
-                               title="Powered by Intlle Hub Inc.">Poweres by Intelle Hub Inc</a>.
+                               title="Powered by Intlle Hub Inc.">Powered by Intelle Hub Inc</a>.
                 All Rights Reserved.
             </div>
             <div class="col-sm-6">
