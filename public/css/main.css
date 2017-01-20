@@ -98,6 +98,7 @@ a:focus {
 .dropdown-menu {
   margin-top: -1px;
   min-width: 180px;
+  font-size: 11px;
 }
 
 .center h2{
@@ -2526,7 +2527,13 @@ shortcodes page css
 }
 
 
+/***********************
+********* Custom ******
+************************/
 
+.text-bottom {
+  min-height: 20%;
+}
 
 
 

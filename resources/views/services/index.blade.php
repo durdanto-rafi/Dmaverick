@@ -3,67 +3,285 @@
 @section('title', 'dMaverick - Services')
 
 @section('body')
-    <section id="feature" class="transparent-bg">
+    <section id="services" class="service-item">
         <div class="container">
-           <div class="center wow fadeInDown">
-                <h2>Our Services</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <div class="center wow fadeInDown">
+                <h2>Our Service</h2>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                    ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
             <div class="row">
-                <div class="features">
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-bullhorn"></i>
-                            <h2>Fresh and Clean</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services1.png">
                         </div>
-                    </div><!--/.col-md-4-->
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-comments"></i>
-                            <h2>Retina ready</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/jung-smart-housing.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Smart</h3>
+                                <span>Universal and intelligent building control with the future proof KNX system</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services2.png">
                         </div>
-                    </div><!--/.col-md-4-->
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-cloud-download"></i>
-                            <h2>Easy to customize</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        <a class="image-text-teaser" href="/en/3761/solutions/enet/" target="_self" title="eNet">
+                            <div class="block-image text-center">
+                                <img src="images/services/enet.jpg" alt="" title="eNet">
+                            </div> 
+                            <div class="text-center">
+                                <h3>eNet</h3>
+                                <span class="text-bottom">Radio retrofitting in electrical <br> installations</span> 
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services3.png">
                         </div>
-                    </div><!--/.col-md-4-->
-                
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-leaf"></i>
-                            <h2>Adipisicing elit</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/jung-bus-24v.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Compact</h3>
+                                <span>Compact functionality with the JUNG <br> Bus</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services4.png">
                         </div>
-                    </div><!--/.col-md-4-->
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-cogs"></i>
-                            <h2>Sed do eiusmod</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/lichtmanagement.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Lighting</h3>
+                                <span>Simple solutions for switching and <br> dimming</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services5.png">
                         </div>
-                    </div><!--/.col-md-4-->
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <i class="fa fa-heart"></i>
-                            <h2>Labore et dolore</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/jalousie-management.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Blinds and shutter</h3>
+                                <span>Simple solutions for shading <br> control</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services6.png">
                         </div>
-                    </div><!--/.col-md-4-->
-                </div><!--/.services-->
-            </div><!--/.row--> 
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/easypr-smart-radio-bad.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Music</h3>
+                                <span>Perfection in Sound and Design for wall installation</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!--/.row-->
+            <div class="row">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services1.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
 
-            <div class="get-started center wow fadeInDown">
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/temperatur-management.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>A/C and temperature</h3>
+                                <span>Simple solutions for the control of temperature and room climate</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services2.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/sicherheit.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Security</h3>
+                                <span>For a secure feeling in your own four <br> walls</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services3.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/multimedia-anschlussystem.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Connection systems</h3>
+                                <span>Perfect connection for multimedia components, network technology and more</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services4.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/hotel.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Hotel</h3>
+                                <span>Functionality meets variety of designs: Advanced technology for the hotel business.</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services5.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/krankenhausinstallationen.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Hospital</h3>
+                                <span>Advanced JUNG technology for hospitals, cylinics and nursing homes.</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        {{-- <div class="pull-left">
+                            <img class="img-responsive" src="images/services/services6.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">SEO Marketing</h3>
+                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                        </div> --}}
+
+                        <a class="image-text-teaser" href="#" target="_self" title="Smart">
+                            <div class="block-image text-center">
+                                <img src="images/services/jung-rauchwarnmelder.jpg" alt="" title="JUNG Smart Housing">
+                            </div> 
+                            <div class="text-bottom text-center">
+                                <h3>Smoke detector</h3>
+                                <span>The invisible guardian <br> angel</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#services-->
+
+<div class="get-started center wow fadeInDown">
                 <h2>Ready to get started</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore  magna aliqua. <br>  Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
                 <div class="request">
@@ -99,10 +317,6 @@
                     </div>
                 </div>
            </div>
-
-        </div><!--/.container-->
-    </section><!--/#feature-->
-
 
     <section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">

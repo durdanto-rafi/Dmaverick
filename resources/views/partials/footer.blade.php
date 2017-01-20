@@ -8,10 +8,10 @@
             </div>
             <div class="col-sm-6">
                 <ul class="pull-right">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Faq</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="{{route('index')}}">Home</a></li>
+                    <li><a href="{{route('about-us')}}">About Us</a></li>
+                    <li><a href="{{route('services')}}">Services</a></li>
+                    <li><a href="{{route('contact-us')}}">Contact Us</a></li>
                 </ul>
             </div>
         </div>
