@@ -16,4 +16,5 @@ Route::get('/about-us',['as'=>'about-us','uses'=>'AboutUsController@getPage']);
 Route::get('/services',['as'=>'services','uses'=>'ServicesController@getPage']);
 Route::get('/portfolio',['as'=>'portfolio','uses'=>'PortfolioController@getPage']);
 Route::get('/contact-us',['as'=>'contact-us','uses'=>'ContactUsController@getPage']);
-Route::get('/llc',['as'=>'llc','uses'=>'LlcController@getPage']);
+Route::get('/IIL',['as'=>'IIL','uses'=>'IilController@getPage']);
+Route::get('/sendMail',['as'=>'sendMail','uses'=>'ContactUsController@sendemail']);

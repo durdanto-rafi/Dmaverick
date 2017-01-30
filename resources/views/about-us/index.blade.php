@@ -7,11 +7,13 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>About dMaverick Intelligence</h2>
-                <p class="lead">Imagine…One touch on your tablet and the movie starts, your shades close and the surround sound kicks in at the perfect volume. When the sun goes down, your porch light turns on. The whole house locks at 11 p.m. automatically.
-    You rush out with the kids to drop them off at school. By the time you get to the office you wonder, “Did I close the garage door?” Simply check from your smartphone and relax.
-    Imagine living in a home that obeys your every command...where virtually every device and system can be controlled remotely and fully automated. You can use your tablet to control your home theater, dim the lights, lock the doors, turn up the heat and arm the alarm. Or your smartphone to do the same from not just anywhere in your house—but from anywhere in the world. 
-    Welcome to dMaverick Intelligence, a smart automation solution for homes and businesses that makes it easy for you to intelligently control every aspect of your home—from TVs to thermostats, door locks to drapes—no matter where you are, using one simple-to-use interface. We make your life more comfortable, more efficient and more secure.
-    Best of all, dMaverick Intelligence gives you the power of technology to personalize your home or business with the automation system of your dreams—all within your budget.
+            </div>
+            <div class="wow fadeInDown">
+                <p >Imagine…One touch on your tablet and the movie starts, your shades close and the surround sound kicks in at the perfect volume. When the sun goes down, your porch light turns on. The whole house locks at 11 p.m. automatically. <br><br>
+    You rush out with the kids to drop them off at school. By the time you get to the office you wonder, “Did I close the garage door?” Simply check from your smartphone and relax.<br><br>
+    Imagine living in a home that obeys your every command...where virtually every device and system can be controlled remotely and fully automated. You can use your tablet to control your home theater, dim the lights, lock the doors, turn up the heat and arm the alarm. Or your smartphone to do the same from not just anywhere in your house—but from anywhere in the world. <br><br>
+    Welcome to dMaverick Intelligence, a smart automation solution for homes and businesses that makes it easy for you to intelligently control every aspect of your home—from TVs to thermostats, door locks to drapes—no matter where you are, using one simple-to-use interface. We make your life more comfortable, more efficient and more secure.<br><br>
+    Best of all, dMaverick Intelligence gives you the power of technology to personalize your home or business with the automation system of your dreams—all within your budget.<br>
 
                 </p>
             </div>
@@ -120,7 +122,7 @@
             <!-- our-team -->
             <div class="team">
                 <div class="center wow fadeInDown">
-                    <h2>Team of dMaverick Intelligence</h2>
+                    <h2>Meet the Team</h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
                 </div>
 

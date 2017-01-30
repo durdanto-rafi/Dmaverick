@@ -55,7 +55,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sister Concerns <i class="fa fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="{{route('llc')}}">Instance International Limited</a></li>
+                            <li><a href="{{route('IIL')}}">Instance International Limited</a></li>
                             <li><a href="http://www.facebook.com/Antarik-Travel-International-210590119032726/?ref=bookmarks">Antarik Travel International</a></li>
                             <li><a href="http://www.facebook.com/dMaverickBlood">dMaverick Blood Foundation</a></li>
                         </ul>

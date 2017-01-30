@@ -724,23 +724,23 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Our Partners</h2>
-                {{-- <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                    ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p> --}}
+                <p class="lead">Our Business Partners makes us stronger. Our programs would not be possible without the dedicated support, 
+                time and collaboration of incredible program partners, integrator and many other supporters. <br> dMaverick Intelligence is 
+                deeply grateful for their help in empowering us to create better communities and a better world.</p>
             </div>
 
             <div class="partners">
                 <ul>
-                    <li><a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
-                                        data-wow-delay="300ms" src="images/partners/partner1.png"></a></li>
-                    <li><a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+                    <li><a href="http://www.zennio.com/en"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
                                         data-wow-delay="600ms" src="images/partners/partner2.png"></a></li>
-                    <li><a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+                    <li><a href="http://www.schneider-electric.com"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
                                         data-wow-delay="900ms" src="images/partners/partner3.png"></a></li>
-                    <li><a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+                    <li><a href="http://www.hdlautomation.com"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
                                         data-wow-delay="1200ms" src="images/partners/partner4.png"></a></li>
-                    <li><a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+                    <li><a href="http://www.insignia3d.com"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
                                         data-wow-delay="1500ms" src="images/partners/partner5.png"></a></li>
-                                        
+                    <li><a href="http://www.inductiveautomation.com"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+                                        data-wow-delay="300ms" src="images/partners/partner1.png"></a></li>
                 </ul>
             </div>
         </div><!--/.container-->
